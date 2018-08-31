@@ -22,7 +22,7 @@ Connection: keep-alive
 Content-Length: 134
 Origin: https://m.bukalapak.com
 X-CSRF-Token: uYUfi93g92mZboBVB4UMwYInorBNOgyYEAbPUTikHht+xseF8BFUgg9qSgQWA9MRy7eL8G/SnbYUGg0JRM1fjw==
-User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Mi A1 Build/OPM2.171026.006.H1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36 Line/8.10.1/IAB
 Content-Type: application/x-www-form-urlencoded; charset=UTF-8
 Accept: */*
 X-Requested-With: XMLHttpRequest
