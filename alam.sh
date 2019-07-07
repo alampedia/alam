@@ -177,7 +177,7 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/alampedia/alam.git
-cd OSIF
+cd alam
 pip2 install -r requirements.txt
 python2 osif.py
 fi
