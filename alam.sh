@@ -93,10 +93,10 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR  :  RAHMAD  "$i"                    Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp:  0888099xxxxx"$i"                Ôûê"
-echo $i"Ôûê"$pu"  GMAIL   :  kucingkaget22@gmail.com"$i"     Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE :  YouTube RMD"$i"                 Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR  :  ALAMPEDIA  "$i"                    Ôûê"
+echo $i"Ôûê"$pu"  Facebook:  "Alam Nuriansyah $i"                Ôûê"
+echo $i"Ôûê"$pu"  GMAIL   :  Alamznuriansyah@gmail.com"$i"     Ôûê"
+echo $i"Ôûê"$pu"  YOUTUBE :  Alampedia"$i"                 Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
@@ -264,12 +264,12 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
 sleep 2
-echo $ku"Facebook :"$i" Rahmad Ramadhani"
-echo $ku"YouTube  :"$i" YouTube RMD"
-echo $ku"WhatsApp :"$i" 0887882xxxx"
+echo $ku"Facebook :"$i" Alam Nuriansyah"
+echo $ku"YouTube  :"$i" Alampedia"
+
 sleep 2
 echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
-echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE RMD }"
+echo $pur"SUBSCRIBE MY CHANNEL { Alampedia }"
 exit
 fi
